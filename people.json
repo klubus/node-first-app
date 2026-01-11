@@ -1,0 +1,162 @@
+[
+  {
+    "gender": "F",
+    "firstName": "Tara",
+    "lastName": "Fernandez",
+    "email": "tara.fernandez@gmail.com",
+    "age": 54,
+    "phoneNumber": 334312818
+  },
+  {
+    "gender": "M",
+    "firstName": "Angus",
+    "lastName": "Berry",
+    "email": "angus.berry@gmail.com",
+    "age": 28,
+    "phoneNumber": 422701775
+  },
+  {
+    "gender": "M",
+    "firstName": "Marco",
+    "lastName": "Robinson",
+    "email": "marco.robinson@gmail.com",
+    "age": 74,
+    "phoneNumber": 943217248
+  },
+  {
+    "gender": "F",
+    "firstName": "Christine",
+    "lastName": "Ramirez",
+    "email": "christine.ramirez@gmail.com",
+    "age": 32,
+    "phoneNumber": 400756460
+  },
+  {
+    "gender": "M",
+    "firstName": "Freddy",
+    "lastName": "Stevenson",
+    "email": "freddy.stevenson@gmail.com",
+    "age": 67,
+    "phoneNumber": 384579452
+  },
+  {
+    "gender": "F",
+    "firstName": "Christine",
+    "lastName": "Ramirez",
+    "email": "christine.ramirez@gmail.com",
+    "age": 18,
+    "phoneNumber": 743264356
+  },
+  {
+    "gender": "M",
+    "firstName": "Angus",
+    "lastName": "Berry",
+    "email": "angus.berry@gmail.com",
+    "age": 27,
+    "phoneNumber": 194318478
+  },
+  {
+    "gender": "M",
+    "firstName": "Charles",
+    "lastName": "Stevenson",
+    "email": "charles.stevenson@gmail.com",
+    "age": 34,
+    "phoneNumber": 925804114
+  },
+  {
+    "gender": "F",
+    "firstName": "Tara",
+    "lastName": "Fernandez",
+    "email": "tara.fernandez@gmail.com",
+    "age": 25,
+    "phoneNumber": 783686003
+  },
+  {
+    "gender": "M",
+    "firstName": "Oscar",
+    "lastName": "Berry",
+    "email": "oscar.berry@gmail.com",
+    "age": 43,
+    "phoneNumber": 824096162
+  },
+  {
+    "gender": "M",
+    "firstName": "Alex",
+    "lastName": "Ramirez",
+    "email": "alex.ramirez@gmail.com",
+    "age": 48,
+    "phoneNumber": 699238248
+  },
+  {
+    "gender": "M",
+    "firstName": "Freddy",
+    "lastName": "Fernandez",
+    "email": "freddy.fernandez@gmail.com",
+    "age": 70,
+    "phoneNumber": 790154687
+  },
+  {
+    "gender": "F",
+    "firstName": "Nelly",
+    "lastName": "Robinson",
+    "email": "nelly.robinson@gmail.com",
+    "age": 64,
+    "phoneNumber": 895964665
+  },
+  {
+    "gender": "F",
+    "firstName": "Tia",
+    "lastName": "Ramirez",
+    "email": "tia.ramirez@gmail.com",
+    "age": 25,
+    "phoneNumber": 424419580
+  },
+  {
+    "gender": "F",
+    "firstName": "Christine",
+    "lastName": "Ramirez",
+    "email": "christine.ramirez@gmail.com",
+    "age": 77,
+    "phoneNumber": 146694697
+  },
+  {
+    "gender": "M",
+    "firstName": "Oscar",
+    "lastName": "Robinson",
+    "email": "oscar.robinson@gmail.com",
+    "age": 18,
+    "phoneNumber": 112907635
+  },
+  {
+    "gender": "M",
+    "firstName": "Alex",
+    "lastName": "Thompson",
+    "email": "alex.thompson@gmail.com",
+    "age": 47,
+    "phoneNumber": 789041786
+  },
+  {
+    "gender": "M",
+    "firstName": "Alex",
+    "lastName": "Ramirez",
+    "email": "alex.ramirez@gmail.com",
+    "age": 51,
+    "phoneNumber": 586280297
+  },
+  {
+    "gender": "F",
+    "firstName": "Nelly",
+    "lastName": "Thompson",
+    "email": "nelly.thompson@gmail.com",
+    "age": 37,
+    "phoneNumber": 165570836
+  },
+  {
+    "gender": "M",
+    "firstName": "Oscar",
+    "lastName": "Ramirez",
+    "email": "oscar.ramirez@gmail.com",
+    "age": 42,
+    "phoneNumber": 163855800
+  }
+]
